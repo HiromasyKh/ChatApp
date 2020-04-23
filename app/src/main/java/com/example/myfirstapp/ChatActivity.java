@@ -1,6 +1,6 @@
 package com.example.myfirstapp;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 
 public class ChatActivity extends AppCompatActivity {
     // ToDo
